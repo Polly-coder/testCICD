@@ -1,2 +1,2 @@
 # testCICD
-test jenkinss
+test jenkins
